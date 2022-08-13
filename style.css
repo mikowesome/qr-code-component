@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: 'Outfit';
 }
 .main-section{
     height: 90vh;
@@ -29,16 +30,19 @@ body {
     width: 330px;
     border-radius: 8px;
     margin: 12px;
-    margin-bottom: 32px;
+    margin-bottom: 28px;
 }
 #main-text {
-    font-size: 20px;
+    font-size: 26px;
     margin: 0 22px;
-    margin-bottom: 24px;
+    margin-bottom: 16px;
+    color: hsl(218, 44%, 22%);
 }
 #info-text {
-    font-size: 15px;
-    margin: 0 20px;
+    font-size: 17px;
+    margin: 0 26px;
+    color: hsl(220, 15%, 55%);
+
 }
 
 .footer {
